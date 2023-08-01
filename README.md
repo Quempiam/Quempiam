@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Quempiam
-- 👀 I’m interested in everything
+- 👀 I’m interested in everything,
+      especially knifemaking and crafting all stuff
+      that can be made from sticks and duct tape
 - 🌱 I’m currently learning Java 17
 
 <!---
